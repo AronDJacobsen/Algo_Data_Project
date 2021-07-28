@@ -1,18 +1,4 @@
 
-
-'''
-
-8
-########
-P #    #
-# # ## #
-# #  #G#
-#    ###
-#### # #
-#G   #G#
-########
-
-'''
 import numpy as np
 from collections import deque
 
